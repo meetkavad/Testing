@@ -52,3 +52,4 @@ Add files ".DS_Store" , "node_modules", and ".env" into a branch named (<Name_Gi
 Create a .gitignore file in the repository to ignore specific files or directories.<br>
 Add common entries to ignore files like .DS_Store, node_modules/, and .env.<br>
 and then push the whole thing into your branch<br>
+
