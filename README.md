@@ -1,7 +1,7 @@
 # Tasks
 
-<h3><b>Note: You can make different branches with your name like Antriksh1, Antriksh2, Antriksh3 like this when needed.</b></h3>
-<h3><b>You can also help each other with tasks, just make sure you learn everything and don't cheat 😇</b></h3>
+## Note: You can make different branches with your name like Antriksh1, Antriksh2, Antriksh3 like this when needed.
+### You can also help each other with tasks, just make sure you learn everything and don't cheat 😇
 
 ### Task 0: Setup your local environment of git using git init
 
